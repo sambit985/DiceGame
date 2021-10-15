@@ -1,3 +1,4 @@
+
 let firstPlayerName = "";
 let secondPlayerName = "";
 let firstPlayerScore = 0;
